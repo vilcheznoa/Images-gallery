@@ -2,8 +2,7 @@
 
 ## 🎨 Demo
 
-![Galería de Imágenes]
-https://vilcheznoa.github.io/Images-gallery/
+🔗 **[Galería de Imágenes](https://vilcheznoa.github.io/Images-gallery/)**
 
 ---
 
