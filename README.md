@@ -2,8 +2,8 @@
 
 ## 🎨 Demo
 
-![Galería de Imágenes](https://via.placeholder.com/800x400/FF69B4/FFFFFF?text=Galer%C3%ADa+de+Im%C3%A1genes+con+Flexbox)
-
+![Galería de Imágenes]
+https://vilcheznoa.github.io/Images-gallery/
 
 ---
 
@@ -26,7 +26,7 @@ Este proyecto es una **galería de imágenes responsive** que muestra fotografí
 
 - **HTML5**: Estructura semántica del contenido
 - **CSS3**: Estilos y diseño responsive
-  - **Flexbox**: Sistema de layout principal
+- **Flexbox**: Sistema de layout principal
 
 ---
 
